@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTicket", "eTicket\eTicket.csproj", "{12913CA4-7E97-45BD-BF9B-A2915C98BEA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12913CA4-7E97-45BD-BF9B-A2915C98BEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12913CA4-7E97-45BD-BF9B-A2915C98BEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12913CA4-7E97-45BD-BF9B-A2915C98BEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12913CA4-7E97-45BD-BF9B-A2915C98BEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77C45E71-3D48-4ABA-9D7F-A021436820CB}
+	EndGlobalSection
+EndGlobal
